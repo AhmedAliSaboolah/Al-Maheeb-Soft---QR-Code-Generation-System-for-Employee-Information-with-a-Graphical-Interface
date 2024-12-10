@@ -1,0 +1,2 @@
+# Al-Maheeb-Soft---QR-Code-Generation-System-for-Employee-Information-with-a-Graphical-Interface
+Al-Maheeb Soft is a system built using Python to create QR codes containing employee information. The system provides an interactive graphical interface with voice recognition features, allowing users to easily input data using voice commands. It is designed to be an innovative and user-friendly tool to enhance productivity in work environments.
